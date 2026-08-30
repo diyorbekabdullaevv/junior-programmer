@@ -7,6 +7,7 @@ Welcome to my repository showcasing the projects I developed while completing th
 1. [Player Control](#player-control)
 2. [Basic Gameplay](#basic-gameplay)
 3. [Sound and Effects](#sound-and-effects)
+4. [Gameplay Mechanics](#gameplay-mechanics)
 
 ## Projects
 
@@ -40,6 +41,16 @@ Welcome to my repository showcasing the projects I developed while completing th
 
 **Description:** An endless side-scrolling runner where I learned how to implement player jumping, background music, sound effects, repeating backgrounds, particle effects, and gameplay feedback.
 
+4. ### <a name="gameplay-mechanics">Gameplay Mechanics</a>
+
+**Project:** [Gameplay Mechanics](4-gameplay-mechanics/README.md)
+
+<p align="center">
+  <img src="public/4-game-mechanics.gif" alt="Gameplay Mechanics Demo" width="900">
+</p>
+
+**Description:** An arcade-style Sumo battle prototype where the player fights increasingly difficult waves of enemies on a floating island. This section focused on player movement, camera control, enemy AI, physics materials, powerups, coroutines, random spawning, and dynamic enemy waves.
+
 ## What I Learned
 
 - Unity Editor workflow
@@ -52,9 +63,15 @@ Welcome to my repository showcasing the projects I developed while completing th
 - Arrays and random values
 - Prefabs and object instantiation
 - Projectile and spawning systems
-- Input System
+- Input System and Input Actions
 - Player movement and jumping
-- Camera systems
+- Camera systems and Focal Point movement
+- Global and Local coordinates
+- Enemy AI and player chasing
+- Physics Materials and knockback mechanics
+- Powerups and temporary abilities
+- Coroutines and countdown timers
+- Enemy wave systems and increasing difficulty
 - Audio and sound effects
 - Particle effects
 - Endless scrolling backgrounds
@@ -67,13 +84,18 @@ Welcome to my repository showcasing the projects I developed while completing th
 - Unity Editor
 - C#
 - Unity Learn
-- Input System
+- Unity Input System
+- Input Actions
 - Physics
 - GameObjects
 - Components
+- Rigidbody
+- Colliders
+- Physics Materials
 - Prefabs
 - Audio
 - Particle System
+- Camera
 
 ## How to Navigate
 
