@@ -73,3 +73,11 @@ sysinfo.txt
 **/*.mp4
 challenge-*/
 
+# ==============================
+# Project-specific files/folders
+# ==============================
+
+**/Data/
+**/dyocrate/
+**/images/
+**/dyocrate.zip

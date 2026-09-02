@@ -8,6 +8,7 @@ Welcome to my repository showcasing the projects I developed while completing th
 2. [Basic Gameplay](#basic-gameplay)
 3. [Sound and Effects](#sound-and-effects)
 4. [Gameplay Mechanics](#gameplay-mechanics)
+5. [User Interface](#user-interface)
 
 ## Projects
 
@@ -51,6 +52,16 @@ Welcome to my repository showcasing the projects I developed while completing th
 
 **Description:** An arcade-style Sumo battle prototype where the player fights increasingly difficult waves of enemies on a floating island. This section focused on player movement, camera control, enemy AI, physics materials, powerups, coroutines, random spawning, and dynamic enemy waves.
 
+5. ### <a name="user-interface">User Interface</a>
+
+**Project:** [User Interface](5-user-interface/README.md)
+
+<p align="center">
+  <img src="public/5-user-interface.gif" alt="User Interface Demo" width="900">
+</p>
+
+**Description:** A reflex-based gameplay prototype where the player clicks and destroys objects before they fall off the screen. This section focused on User Interface, title screens, difficulty selection, score displays, Game Over screens, game states, and connecting UI elements with C# scripts.
+
 ## What I Learned
 
 - Unity Editor workflow
@@ -60,7 +71,11 @@ Welcome to my repository showcasing the projects I developed while completing th
 - C# scripting fundamentals
 - Variables and data types
 - Conditional logic
+- Boolean logic
 - Arrays and random values
+- Methods and return values
+- Methods with parameters
+- For-loops
 - Prefabs and object instantiation
 - Projectile and spawning systems
 - Input System and Input Actions
@@ -75,6 +90,13 @@ Welcome to my repository showcasing the projects I developed while completing th
 - Audio and sound effects
 - Particle effects
 - Endless scrolling backgrounds
+- User Interface and Canvas
+- UI Buttons and text elements
+- Title screens and menus
+- Difficulty selection
+- Score tracking and displays
+- Game Over and restart systems
+- Game state management
 - Debugging and error handling
 - Basic gameplay programming
 
@@ -86,6 +108,10 @@ Welcome to my repository showcasing the projects I developed while completing th
 - Unity Learn
 - Unity Input System
 - Input Actions
+- Unity UI
+- Canvas
+- UI Buttons
+- Text and UI Elements
 - Physics
 - GameObjects
 - Components
@@ -96,6 +122,7 @@ Welcome to my repository showcasing the projects I developed while completing th
 - Audio
 - Particle System
 - Camera
+- Coroutines
 
 ## How to Navigate
 
