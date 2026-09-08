@@ -1,104 +1,105 @@
 # Unity Junior Programmer
 
-Welcome to my repository showcasing the projects I developed while completing the Unity Junior Programmer learning pathway.
+![Unity](https://img.shields.io/badge/Unity-6.3-black?logo=unity)
+![C#](https://img.shields.io/badge/C%23-Language-239120?logo=csharp)
+![Unity Learn](https://img.shields.io/badge/Unity%20Learn-Junior%20Programmer-black?logo=unity)
+
+A hands-on Unity learning pathway where I built gameplay prototypes while developing my skills in C#, game mechanics, UI, physics, AI, data management, optimization, and object-oriented programming.
+
+🏅 **My Unity Junior Programmer Badge:** https://www.credly.com/badges/213185e9-25cb-4add-b3b3-ea4d0164a2da/
+
+## About
+
+Unity Junior Programmer is Unity's learning pathway focused on developing practical programming skills for game development.
+
+Throughout the pathway, I worked on multiple Unity projects and learned how to build gameplay systems using C#. I progressed from basic player control and physics to enemy AI, UI, game states, scene management, data persistence, optimization, and object-oriented programming.
+
+The pathway helped me develop a stronger understanding of how different systems work together to create structured and interactive games.
+
+## Game Demos
+
+<table>
+<tr>
+<td width="33.33%" align="center">
+<img src="public/1-player-control.gif" width="100%" alt="Player Control Demo"><br>
+<a href="1-player-control/README.md"><b>Player Control</b></a><br>
+A car-based game focused on movement and vehicle control.
+</td>
+
+<td width="33.33%" align="center">
+<img src="public/2-basic-gameplay.gif" width="100%" alt="Basic Gameplay Demo"><br>
+<a href="2-basic-gameplay/README.md"><b>Basic Gameplay</b></a><br>
+A top-down game where the player throws food at animals.
+</td>
+
+<td width="33.33%" align="center">
+<img src="public/3-sound-and-effects.gif" width="100%" alt="Sound and Effects Demo"><br>
+<a href="3-sound-and-effects/README.md"><b>Sound and Effects</b></a><br>
+An endless runner with audio and visual effects.
+</td>
+</tr>
+
+<tr>
+<td width="33.33%" align="center">
+<img src="public/4-game-mechanics.gif" width="100%" alt="Gameplay Mechanics Demo"><br>
+<a href="4-gameplay-mechanics/README.md"><b>Gameplay Mechanics</b></a><br>
+An arcade-style Sumo battle with enemies, powerups, and physics.
+</td>
+
+<td width="33.33%" align="center">
+<img src="public/5-user-interface.gif" width="100%" alt="User Interface Demo"><br>
+<a href="5-user-interface/README.md"><b>User Interface</b></a><br>
+A reflex game with difficulty settings, scoring, and game states.
+</td>
+
+<td width="33.33%" align="center">
+<img src="public/6-8-sections.png" width="100%" alt="Sections 6-8 Learning"><br>
+<b>Beyond Gameplay</b><br>
+Optimization, publishing, data management, and object-oriented programming.
+</td>
+</tr>
+</table>
 
 ## Completed Sections
 
-1. [Player Control](#player-control)
-2. [Basic Gameplay](#basic-gameplay)
-3. [Sound and Effects](#sound-and-effects)
-4. [Gameplay Mechanics](#gameplay-mechanics)
-5. [User Interface](#user-interface)
-
-## Projects
-
-1. ### <a name="player-control">Player Control</a>
-
-**Project:** [Player Control](1-player-control/README.md)
-
-<p align="center">
-  <img src="public/1-player-control.gif" alt="Player Control Demo" width="900">
-</p>
-
-**Description:** A car-based gameplay prototype where I learned the fundamentals of Unity, including GameObjects, Components, physics, C# scripting, variables, and trigger interactions.
-
-2. ### <a name="basic-gameplay">Basic Gameplay</a>
-
-**Project:** [Basic Gameplay](2-basic-gameplay/README.md)
-
-<p align="center">
-  <img src="public/2-basic-gameplay.gif" alt="Basic Gameplay Demo" width="900">
-</p>
-
-**Description:** A top-down gameplay prototype where the player throws food at approaching animals. This section focused on conditional logic, arrays, random values, prefabs, instantiation, collision detection, and debugging.
-
-3. ### <a name="sound-and-effects">Sound and Effects</a>
-
-**Project:** [Sound and Effects](3-sound-and-effects/README.md)
-
-<p align="center">
-  <img src="public/3-sound-and-effects.gif" alt="Sound and Effects Demo" width="900">
-</p>
-
-**Description:** An endless side-scrolling runner where I learned how to implement player jumping, background music, sound effects, repeating backgrounds, particle effects, and gameplay feedback.
-
-4. ### <a name="gameplay-mechanics">Gameplay Mechanics</a>
-
-**Project:** [Gameplay Mechanics](4-gameplay-mechanics/README.md)
-
-<p align="center">
-  <img src="public/4-game-mechanics.gif" alt="Gameplay Mechanics Demo" width="900">
-</p>
-
-**Description:** An arcade-style Sumo battle prototype where the player fights increasingly difficult waves of enemies on a floating island. This section focused on player movement, camera control, enemy AI, physics materials, powerups, coroutines, random spawning, and dynamic enemy waves.
-
-5. ### <a name="user-interface">User Interface</a>
-
-**Project:** [User Interface](5-user-interface/README.md)
-
-<p align="center">
-  <img src="public/5-user-interface.gif" alt="User Interface Demo" width="900">
-</p>
-
-**Description:** A reflex-based gameplay prototype where the player clicks and destroys objects before they fall off the screen. This section focused on User Interface, title screens, difficulty selection, score displays, Game Over screens, game states, and connecting UI elements with C# scripts.
+| №     | Section                              | What I Learned                                                                                                      | Navigation                                                                                                                                        |
+| ----- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Player Control**                   | Unity fundamentals, GameObjects, Components, physics, C# scripting, variables, and trigger interactions             | [![View](https://img.shields.io/badge/View-35006a?style=for-the-badge&logo=github&logoColor=white)](1-player-control/README.md)                   |
+| **2** | **Basic Gameplay**                   | Conditional logic, arrays, random values, prefabs, instantiation, collision detection, and debugging                | [![View](https://img.shields.io/badge/View-35006a?style=for-the-badge&logo=github&logoColor=white)](2-basic-gameplay/README.md)                   |
+| **3** | **Sound and Effects**                | Audio, particle effects, gameplay feedback, and creating more engaging player experiences                           | [![View](https://img.shields.io/badge/View-35006a?style=for-the-badge&logo=github&logoColor=white)](3-sound-and-effects/README.md)                |
+| **4** | **Gameplay Mechanics**               | Player movement, camera control, enemy AI, physics, powerups, coroutines, spawning systems, and dynamic enemy waves | [![View](https://img.shields.io/badge/View-35006a?style=for-the-badge&logo=github&logoColor=white)](4-gameplay-mechanics/README.md)               |
+| **5** | **User Interface**                   | UI systems, menus, difficulty selection, score tracking, game states, and connecting UI elements with C#            | [![View](https://img.shields.io/badge/View-35006a?style=for-the-badge&logo=github&logoColor=white)](5-user-interface/README.md)                   |
+| **6** | **Publishing Your Project**          | Project optimization, troubleshooting, platform publishing, ECS, DOTS, and portfolio preparation                    | [![View](https://img.shields.io/badge/View-35006a?style=for-the-badge&logo=github&logoColor=white)](6-publishing-your-project/README.md)          |
+| **7** | **Manage Scene Flow and Data**       | Git and GitHub, scene management, data persistence, saving and loading, JSON serialization, and OOP fundamentals    | [![View](https://img.shields.io/badge/View-35006a?style=for-the-badge&logo=github&logoColor=white)](7-manage-scene-flow-and-data/README.md)       |
+| **8** | **Apply Object-Oriented Principles** | Abstraction, encapsulation, inheritance, polymorphism, code refactoring, profiling, and optimization                | [![View](https://img.shields.io/badge/View-35006a?style=for-the-badge&logo=github&logoColor=white)](8-apply-object-oriented-principles/README.md) |
 
 ## What I Learned
 
-- Unity Editor workflow
-- GameObjects and Components
-- Transform and Rigidbody physics
-- Colliders and trigger interactions
+- Unity Editor workflow and project structure
+- GameObjects, Components, Prefabs, and Scenes
 - C# scripting fundamentals
-- Variables and data types
-- Conditional logic
-- Boolean logic
+- Variables, data types, methods, loops, and conditional logic
 - Arrays and random values
-- Methods and return values
-- Methods with parameters
-- For-loops
-- Prefabs and object instantiation
-- Projectile and spawning systems
-- Input System and Input Actions
-- Player movement and jumping
-- Camera systems and Focal Point movement
-- Global and Local coordinates
-- Enemy AI and player chasing
-- Physics Materials and knockback mechanics
-- Powerups and temporary abilities
-- Coroutines and countdown timers
-- Enemy wave systems and increasing difficulty
-- Audio and sound effects
-- Particle effects
-- Endless scrolling backgrounds
-- User Interface and Canvas
-- UI Buttons and text elements
-- Title screens and menus
-- Difficulty selection
-- Score tracking and displays
-- Game Over and restart systems
-- Game state management
-- Debugging and error handling
-- Basic gameplay programming
+- Physics, Rigidbody, Colliders, and triggers
+- Player movement and Unity Input System
+- Camera control and coordinate spaces
+- Enemy AI and gameplay mechanics
+- Powerups, coroutines, and spawning systems
+- Dynamic enemy waves and gameplay difficulty
+- Audio, particle effects, and gameplay feedback
+- User Interface and game-state management
+- Debugging and troubleshooting
+- Project optimization and Object Pooling
+- Performance profiling with Unity Profiler
+- Building and publishing Unity projects
+- Git and GitHub
+- Scene management and data persistence
+- Saving, loading, and JSON serialization
+- Object-Oriented Programming principles
+- Abstraction, encapsulation, inheritance, and polymorphism
+- Code refactoring and access control
+- ECS and DOTS
+- Portfolio, career, and interview preparation
 
 ## Technologies
 
@@ -108,26 +109,39 @@ Welcome to my repository showcasing the projects I developed while completing th
 - Unity Learn
 - Unity Input System
 - Input Actions
-- Unity UI
-- Canvas
-- UI Buttons
-- Text and UI Elements
-- Physics
 - GameObjects
 - Components
+- Prefabs
+- Physics
 - Rigidbody
 - Colliders
 - Physics Materials
-- Prefabs
+- Unity UI
+- Canvas
+- UI Buttons
+- Text & UI Elements
 - Audio
 - Particle System
 - Camera
 - Coroutines
+- Object Pooling
+- Build Profiles
+- WebGL
+- ECS
+- DOTS
+- Git
+- GitHub
+- JSON
+- System.IO
+- SceneManager
+- DontDestroyOnLoad
+- Unity Profiler
+- Object-Oriented Programming
 
-## How to Navigate
+## What's Next
 
-Feel free to explore each section to learn more about my progress through the Unity Junior Programmer pathway.
+With the Unity Junior Programmer pathway completed, my next goal is to build more original Unity projects and continue improving my game programming skills.
 
-Each section contains its own README with details about the project, concepts learned, and technologies used.
+I also want to explore the combination of **Game Development and AI/ML** by applying AI-related concepts to future game projects.
 
 ⭐ If you found this repository helpful, consider giving it a star!
